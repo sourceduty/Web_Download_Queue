@@ -18,3 +18,5 @@ A web browser plugin that regulates file downloads in single-file sequential ord
 [Chrono](https://chrome.google.com/webstore/detail/chrono-download-manager/mciiogijehkdemklbdcbfkefimifhecn)
 <br />
 [Pyload](https://pyload.net/)
+#
+ℹ️ This software is free and open-source; anyone can redistribute it and/or modify it.
