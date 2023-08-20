@@ -1,6 +1,6 @@
 ## Web_Download_Queue:
 
-📥 Sequentially regulated web browser file downloads.
+📥 Software concept for sequentially regulated web browser file downloads.
 
 ## CONCEPT
 
